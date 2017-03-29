@@ -1,0 +1,6 @@
+# Other files and folders
+functions/
+.firebaserc
+database.rules.json
+firebase.json
+.DS_Store

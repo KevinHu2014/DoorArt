@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#container {
+  width: 320;
+  height: 240;
+  position: absolute;
+  z-index: 101;
+  overflow: hidden;
+}
+
+#defaultCanvas0 {
+  z-index: -1;
+}
